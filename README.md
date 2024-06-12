@@ -20,7 +20,7 @@ Tooling used (But not limited to):
 Processes and Techniques used (but not limited to):
 
 
-• Disk imaging
+• Disk imaging /n
 • File carving
 • Whitelisting
 • Registry Analysis
