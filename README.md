@@ -8,7 +8,6 @@ This project involved a mock digital forensic investigation of a suspect, 'John 
 
 Tooling used (But not limited to):
 
-
 • Autopsy
 
 • John The Ripper
