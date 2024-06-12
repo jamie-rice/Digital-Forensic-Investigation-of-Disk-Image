@@ -8,32 +8,21 @@ This project involved a mock digital forensic investigation of a suspect, 'John 
 
 Tooling used (But not limited to):
 
-• Autopsy
-
-• John The Ripper
-
-• Registry Spry
-
-• Okteta
-
-• Mork.PL
-
-• CLI tools: grep, strings, binwalk, exiftool, foremost, dd, etc
+- Autopsy
+- John The Ripper
+- Registry Spry
+- Okteta
+- Mork.PL
+- CLI tools: grep, strings, binwalk, exiftool, foremost, dd, etc
 
 
 Processes and Techniques used (but not limited to):
 
 
-• Disk imaging
-
-• File carving
-
-• Whitelisting
-
-• Registry Analysis
-
-• Browser Analysis
-
-• Password cracking (Bruteforce, Dictionary)
-
-• Timeline analysis
+- Disk imaging
+- File carving
+- Whitelisting
+- Registry Analysis
+- Browser Analysis
+- Password cracking (Bruteforce, Dictionary)
+- Timeline analysis
